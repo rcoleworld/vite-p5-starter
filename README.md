@@ -21,3 +21,6 @@ npm run dev
 ## Deploying
 
 For production builds and deploying please refer to the [vite documentation](https://vitejs.dev/guide/static-deploy.html#deploying-a-static-site).
+
+## Coding
+Inside of `/src/main.ts`, add your code to the provided `draw()` and `setup()` methods. For more information about how these methods work or for more documentation on P5.js refer to the [docs](https://p5js.org/). 
