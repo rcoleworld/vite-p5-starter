@@ -4,6 +4,8 @@ This is a straightforward configuration of P5.js, TypeScript, and Vite. Will mos
 
 ## Installation
 
+You can follow the below steps to get started or you can just select "Use this template" on the repository's page.
+
 ```
 git clone https://github.com/rcoleworld/vite-p5-starter.git 
 ```
